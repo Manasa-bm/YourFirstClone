@@ -25,7 +25,7 @@ My role involves analyzing data and creating features that improve user experien
 
 # General content
 (All the teammates are requested to enter your text strictly in line 15 only)
-I'm review manager 
+I'm review manager.
 
 
 
