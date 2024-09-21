@@ -1,6 +1,7 @@
 # Introduction of Feature engineer 1
 (Enter your text from line 3 onwards) 
-
+My work involves designing and optimizing features that 
+enhances machine learning model and decision making task.
 
 
 
