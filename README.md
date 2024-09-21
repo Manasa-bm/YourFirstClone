@@ -3,10 +3,10 @@
 
 
 
-
 # Introduction of Feature engineer 2 
 (Enter your text from line 9 onwards)
-
+I focus on developing innovative solutions to enhance products and systems
+My role involves analyzing data and creating features that improve user experience.
 
 
 
